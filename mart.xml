@@ -124,7 +124,7 @@
                         <field name="VAR">martingale:size</field>
                         <value name="VALUE">
                           <block type="math_number" id="V^QkcFsonsJWZ0pgI8IU">
-                            <field name="NUM">1</field>
+                            <field name="NUM">3</field>
                           </block>
                         </value>
                       </block>
@@ -169,7 +169,7 @@
         <field name="OP">MULTIPLY</field>
         <value name="A">
           <shadow type="math_number" id="F/^.gR-k|dBg*ZMQ,E?v">
-            <field name="NUM">1</field>
+            <field name="NUM">3</field>
           </shadow>
           <block type="variables_get" id="4;YLe/OL#s08%Fg6}T[#">
             <field name="VAR">martingale:size</field>
@@ -177,7 +177,7 @@
         </value>
         <value name="B">
           <shadow type="math_number" id="v*eC4j=U!K8B76C5kQ*U">
-            <field name="NUM">1.25</field>
+            <field name="NUM">3</field>
           </shadow>
           <block type="variables_get" id="]6BmBNR~M:1|pttC(CT_">
             <field name="VAR">martingale:amount</field>
@@ -205,7 +205,7 @@
             <field name="VAR">martingale:size</field>
             <value name="VALUE">
               <block type="math_number" id="tNP@,EBgjET40TC9jh05">
-                <field name="NUM">1</field>
+                <field name="NUM">1.25</field>
               </block>
             </value>
           </block>
@@ -218,7 +218,7 @@
                 <field name="OP">MULTIPLY</field>
                 <value name="A">
                   <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
-                    <field name="NUM">1</field>
+                    <field name="NUM">1.25</field>
                   </shadow>
                   <block type="variables_get" id="!7jq#O^~DP+j~efJv=eV">
                     <field name="VAR">martingale:size</field>
@@ -226,7 +226,7 @@
                 </value>
                 <value name="B">
                   <shadow type="math_number" id="%6%m1;%94AYq9a7`g[u!">
-                    <field name="NUM">1</field>
+                    <field name="NUM">1.25</field>
                   </shadow>
                   <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
                     <field name="NUM">2</field>
@@ -251,7 +251,7 @@
         <field name="VAR">martingale:totalProfit</field>
         <value name="DELTA">
           <shadow type="math_number" id="[)Nh?MH}TXeN]0n(Q?PP">
-            <field name="NUM">1</field>
+            <field name="NUM">3</field>
           </shadow>
           <block type="variables_get" id="Kj+o2HPe^1#-J*pl.VD9">
             <field name="VAR">martingale:profit</field>
@@ -265,7 +265,7 @@
                 <field name="OP">DIVIDE</field>
                 <value name="A">
                   <shadow type="math_number" id="Y445k*N9Y{3k^0nU:f/a">
-                    <field name="NUM">1</field>
+                    <field name="NUM">3</field>
                   </shadow>
                   <block type="math_round" id="eOhznKTK*Yn[R~s!l7p;">
                     <field name="OP">ROUND</field>
@@ -277,7 +277,7 @@
                         <field name="OP">MULTIPLY</field>
                         <value name="A">
                           <shadow type="math_number" id="1IiDMd{pA4I8#Jv5:v)F">
-                            <field name="NUM">1</field>
+                            <field name="NUM">3</field>
                           </shadow>
                           <block type="variables_get" id="djyZC:DVv!8AFfC.FoYS">
                             <field name="VAR">martingale:totalProfit</field>
@@ -285,7 +285,7 @@
                         </value>
                         <value name="B">
                           <shadow type="math_number" id="QPp6Ex`FL}B)uWsSrQ*o">
-                            <field name="NUM">1</field>
+                            <field name="NUM">3</field>
                           </shadow>
                           <block type="math_number" id="qdaI}RV~2ic%D1==.15s">
                             <field name="NUM">100</field>
@@ -297,7 +297,7 @@
                 </value>
                 <value name="B">
                   <shadow type="math_number" id=";(PBMt(9fPe84P0`MRRO">
-                    <field name="NUM">1</field>
+                    <field name="NUM">3</field>
                   </shadow>
                   <block type="math_number" id=";)+n7kB.._k3n:rt!GvJ">
                     <field name="NUM">100</field>
