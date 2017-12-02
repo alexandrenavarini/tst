@@ -124,7 +124,7 @@
                         <field name="VAR">martingale:size</field>
                         <value name="VALUE">
                           <block type="math_number" id="V^QkcFsonsJWZ0pgI8IU">
-                            <field name="NUM">1.25</field>
+                            <field name="NUM">1</field>
                           </block>
                         </value>
                       </block>
@@ -399,7 +399,7 @@
                             </value>
                             <next>
                               <block type="controls_if" id="]Kv}Tw=x^zr6@I@D@S4q">
-                                <mutation else="1"></mutation>
+                                <mutation else="1.25"></mutation>
                                 <value name="IF0">
                                   <block type="logic_compare" id=")|LQhZk*#Wi64TgP!Xa^">
                                     <field name="OP">LT</field>
