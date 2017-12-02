@@ -124,7 +124,7 @@
                         <field name="VAR">martingale:size</field>
                         <value name="VALUE">
                           <block type="math_number" id="V^QkcFsonsJWZ0pgI8IU">
-                            <field name="NUM">1.25</field>
+                            <field name="NUM">1</field>
                           </block>
                         </value>
                       </block>
@@ -177,7 +177,7 @@
         </value>
         <value name="B">
           <shadow type="math_number" id="v*eC4j=U!K8B76C5kQ*U">
-            <field name="NUM">1</field>
+            <field name="NUM">1.25</field>
           </shadow>
           <block type="variables_get" id="]6BmBNR~M:1|pttC(CT_">
             <field name="VAR">martingale:amount</field>
