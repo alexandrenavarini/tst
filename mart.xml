@@ -124,7 +124,7 @@
                         <field name="VAR">martingale:size</field>
                         <value name="VALUE">
                           <block type="math_number" id="V^QkcFsonsJWZ0pgI8IU">
-                            <field name="NUM">3</field>
+                            <field name="NUM">1</field>
                           </block>
                         </value>
                       </block>
@@ -251,7 +251,7 @@
         <field name="VAR">martingale:totalProfit</field>
         <value name="DELTA">
           <shadow type="math_number" id="[)Nh?MH}TXeN]0n(Q?PP">
-            <field name="NUM">1</field>
+            <field name="NUM">125</field>
           </shadow>
           <block type="variables_get" id="Kj+o2HPe^1#-J*pl.VD9">
             <field name="VAR">martingale:profit</field>
@@ -265,7 +265,7 @@
                 <field name="OP">DIVIDE</field>
                 <value name="A">
                   <shadow type="math_number" id="Y445k*N9Y{3k^0nU:f/a">
-                    <field name="NUM">1</field>
+                    <field name="NUM">125</field>
                   </shadow>
                   <block type="math_round" id="eOhznKTK*Yn[R~s!l7p;">
                     <field name="OP">ROUND</field>
