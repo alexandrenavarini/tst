@@ -124,7 +124,7 @@
                         <field name="VAR">martingale:size</field>
                         <value name="VALUE">
                           <block type="math_number" id="V^QkcFsonsJWZ0pgI8IU">
-                            <field name="NUM">1</field>
+                            <field name="NUM">1.25</field>
                           </block>
                         </value>
                       </block>
